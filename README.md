@@ -19,6 +19,41 @@ I enjoy exploring how software and hardware can work together to create interact
 - Exploring robotics and embedded systems
 - Developing engineering projects and documenting my progress with Git and GitHub
 
+## Technical Skills
+
+### Programming
+- Python
+- C++
+- Java
+- Kotlin
+
+### Embedded Systems & Electronics
+- Arduino
+- Raspberry Pi
+- Microcontrollers
+- Serial Communication, I²C & SPI
+
+### Robotics & Computer Vision
+- ROS / ROS 2
+- OpenCV
+
+### CAD, Simulation & Virtual Reality
+- SolidWorks
+- Numerical Simulation
+- 3D Modeling
+- Virtual Reality (VR)
+
+### Industrial Automation
+- EcoStruxure Machine Expert Basic
+- Siemens TIA Portal
+- ABB RobotStudio
+- FANUC ROBOGUIDE
+
+### Development Tools & Environments
+- Git & GitHub
+- Linux
+- Android Studio
+  
 ## Goals
 
 My goal is to develop reliable technical skills, build practical projects, and contribute to innovative engineering applications.
